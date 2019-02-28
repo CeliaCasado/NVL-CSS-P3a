@@ -1,0 +1,25 @@
+h1{
+	color: black;
+	margin-left: 30px;
+	margin-bottom: 30px;
+	background-color: yellow;
+	border: 1px solid black;
+	font-size: 36px
+}
+
+h2 {
+	color: red;
+	margin-left: 40px;
+	border: 1px dotted black;
+	font-size: 32px;
+}
+
+p{
+	color: grey;
+	margin-left: 40px;
+	font-size: 28px;
+}
+
+img{
+	margin-left: 60px;
+}
